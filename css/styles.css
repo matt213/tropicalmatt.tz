@@ -792,22 +792,22 @@ Showcase
 .device {
     position: absolute;
     top: -60px;
-    left: 20%;
+    left: -20%;
     min-height: 676px;
-    width: 359px;
+    width: 676px;
     background: url('../img/iphone-skeleton.png') no-repeat center center;
 }
 .device-content {
     position: absolute;
-    top: 115px;
-    left: 56px;
-    width: 247px;
-    height: 445px;
+    top: 215px;
+    left: 116px;
+    width: 445px;
+    height: 247px;
     background: rgba(0, 0, 0, 0.3);
 }
 .device-content img {
-    width: 247px;
-    height: 445px;
+    width: 445px;
+    height: 247px;
 }
 .showcase-wrap {
     position: relative;
